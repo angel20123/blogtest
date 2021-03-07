@@ -62,7 +62,7 @@ Kong API Gateway는 **nginx 기반**으로 **플랫폼에 구애받지않고** �
 <center> ( 출처 : https://github.com/Netflix/zuul ) </center>
 
 MSA를 잘 활용하고 있는 Netflex사의 API Gateway를 오픈소스화 한 것이 Zuul API Gateway 입니다. groovy 언어로 작성된 다양한 Filter 를 실행하며, 추가적인 기능은 Filter를 정의해서 사용합니다. (Filter 기반) 
-
+Zuul 모듈을 가지고 직접 구현하는 것은 러닝커브가 어려우나, Spring 진형에서 진행했던(과거형) spring cloud netflix 프로젝트를 이용하여 기능 구현
  
 
 
@@ -71,7 +71,7 @@ MSA를 잘 활용하고 있는 Netflex사의 API Gateway를 오픈소스화 한 
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Mjc5MjU2MywxMzYzNDk0NDUsLTQ5Mz
+eyJoaXN0b3J5IjpbLTQ4NzU3MzE5MywxMzYzNDk0NDUsLTQ5Mz
 E3Njg5MSwtMzIxMDE5MzkyLDEyMDQyOTAzNDIsLTQzOTY3NzM5
 MSwtMTQ2Mjk3NjQwLDEwNTk4NjcwMTMsLTE3NDY2MTIyODQsND
 czMTcwMDQ1LC05MTYxMjk5MzQsMTc4OTUyNzIyN119
