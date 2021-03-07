@@ -61,16 +61,14 @@ Kong API Gateway는 **nginx 기반**으로 **플랫폼에 구애받지않고** �
 ![Zuul API Gateway](https://github.com/angel20123/blogtest/blob/master/zuul.png?raw=true)
 <center> ( 출처 : https://github.com/Netflix/zuul ) </center>
 
-
-
-ㅇㅇㅇㅇ
+Net
 
 
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzQ5NDQ1LC00OTMxNzY4OTEsLTMyMT
-AxOTM5MiwxMjA0MjkwMzQyLC00Mzk2NzczOTEsLTE0NjI5NzY0
-MCwxMDU5ODY3MDEzLC0xNzQ2NjEyMjg0LDQ3MzE3MDA0NSwtOT
-E2MTI5OTM0LDE3ODk1MjcyMjddfQ==
+eyJoaXN0b3J5IjpbLTE4ODY4MTU5OTIsMTM2MzQ5NDQ1LC00OT
+MxNzY4OTEsLTMyMTAxOTM5MiwxMjA0MjkwMzQyLC00Mzk2Nzcz
+OTEsLTE0NjI5NzY0MCwxMDU5ODY3MDEzLC0xNzQ2NjEyMjg0LD
+Q3MzE3MDA0NSwtOTE2MTI5OTM0LDE3ODk1MjcyMjddfQ==
 -->
