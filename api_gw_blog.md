@@ -24,10 +24,10 @@ API Gateway는 사용자가 서비스를 이용하기 위해 모든 엔드포인
 
 비단, API Gateway는 MSA 구조에서만 고려대상이 아니라, 기존 Monolithic Architechture 구조에서도 서비스가 많은 경우 사용 될 수도 있을 것 같습니다.
 
-
+## API Gateway 주요 기능
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzgzNTg1LDQ3MzE3MDA0NSwtOTE2MT
+eyJoaXN0b3J5IjpbNzY5MTExMDM0LDQ3MzE3MDA0NSwtOTE2MT
 I5OTM0LDE3ODk1MjcyMjddfQ==
 -->
