@@ -78,33 +78,33 @@ Zuul 모듈을 가지고 직접 구현하는 것은 러닝커브가 커서 어�
 
 |ASCII                          |
 |-------------------------------|
-|spring-cloud-netflix-archaius            |
+|spring-cloud-netflix-archaius                       |
 |spring-cloud-netflix-concurrency-limits`            |
-|spring-cloud-netflix-dependencies|
-|spring-cloud-netflix-hystrix|
-|spring-cloud-netflix-hystrix-contract|
-|spring-cloud-netflix-hystrix-dashboard|
-|spring-cloud-netflix-hystrix-stream|
-|spring-cloud-netflix-ribbon|
-|spring-cloud-netflix-sidecar|
-|spring-cloud-netflix-turbine|
-|spring-cloud-netflix-turbine-stream|
-|spring-cloud-netflix-zuul|
-|spring-cloud-starter-netflix-archaius|
-|spring-cloud-starter-netflix-hystrix|
-|spring-cloud-starter-netflix-hystrix-dashboard|
-|-   spring-cloud-starter-netflix-ribbon|
-|-   spring-cloud-starter-netflix-turbine|
-|-   spring-cloud-starter-netflix-turbine-stream|
-|spring-cloud-starter-netflix-hystrix-dashboard|
-|spring-cloud-starter-netflix-hystrix-dashboard|
+|spring-cloud-netflix-dependencies                   |
+|spring-cloud-netflix-hystrix                        |
+|spring-cloud-netflix-hystrix-contract               |
+|spring-cloud-netflix-hystrix-dashboard              |
+|spring-cloud-netflix-hystrix-stream                 |
+|spring-cloud-netflix-ribbon                         |
+|spring-cloud-netflix-sidecar                        |
+|spring-cloud-netflix-turbine                        |
+|spring-cloud-netflix-turbine-stream                 |
+|spring-cloud-netflix-zuul                           |
+|spring-cloud-starter-netflix-archaius               |
+|spring-cloud-starter-netflix-hystrix                |
+|spring-cloud-starter-netflix-hystrix-dashboard      |
+|spring-cloud-starter-netflix-ribbon                 |
+|spring-cloud-starter-netflix-turbine                |
+|spring-cloud-starter-netflix-turbine-stream         |
+|spring-cloud-starter-netflix-zuul                   |
+|spring-cloud-starter-netflix-hystrix-dashboard      |
 
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2NTE2NzgxLDI3MTM3ODQwNiw1NDgxMT
-czMjMsMTA1Mzk0MzgzOCwxMzYzNDk0NDUsLTQ5MzE3Njg5MSwt
-MzIxMDE5MzkyLDEyMDQyOTAzNDIsLTQzOTY3NzM5MSwtMTQ2Mj
-k3NjQwLDEwNTk4NjcwMTMsLTE3NDY2MTIyODQsNDczMTcwMDQ1
-LC05MTYxMjk5MzQsMTc4OTUyNzIyN119
+eyJoaXN0b3J5IjpbMTY0MjU0NTE1MiwyNzEzNzg0MDYsNTQ4MT
+E3MzIzLDEwNTM5NDM4MzgsMTM2MzQ5NDQ1LC00OTMxNzY4OTEs
+LTMyMTAxOTM5MiwxMjA0MjkwMzQyLC00Mzk2NzczOTEsLTE0Nj
+I5NzY0MCwxMDU5ODY3MDEzLC0xNzQ2NjEyMjg0LDQ3MzE3MDA0
+NSwtOTE2MTI5OTM0LDE3ODk1MjcyMjddfQ==
 -->
