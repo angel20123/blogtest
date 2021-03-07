@@ -28,13 +28,14 @@ API Gateway는 사용자가 서비스를 이용하기 위해 모든 엔드포인
 API Gateway가 없는 경우 각 서비스별로 인증과 인가 로직을 구현하여야 합니다.  보통 인증과 인가로직은 공통 로직으로 각 서비스 수만큼 공통로직이 중복이 발생하게 되고, 서비스가 많아지면 유지보수가 힘들어집니다. 따라서 사용자의 모든 요청을 처음 받는  API Gateway에 인증과 인가로직을 구현함으로서 공통로직을 줄일 수 있고, 유지보수도 그 만큼 쉬워지게 됩니다.
 
 **2. 엔드포인트 단순화**
-Monolithic Architechture  
- **3. 라우팅과 로드밸런싱**
 사용자는 API Gateway 엔드포인트만 알고 있으면, 인증과 인가된 경우 전체 서비스에 접근할 수 있습니다.
+ 
+ **3. 라우팅과 로드밸런싱**
+Monolithic Architechture 에서 L4를 통해 로드밸런싱이 가능했던것 처럼 API Gateway를 통해 로드밸런싱이 가능합니다. 차이점은  인증과 인가된 경우 전체 서비스에 접근할 수 있습니다.
 ## API Gateway 주요 기능
  
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE5NTI3NTUsLTE3NDY2MTIyODQsND
-czMTcwMDQ1LC05MTYxMjk5MzQsMTc4OTUyNzIyN119
+eyJoaXN0b3J5IjpbODc2MTcxNDgzLC0xNzQ2NjEyMjg0LDQ3Mz
+E3MDA0NSwtOTE2MTI5OTM0LDE3ODk1MjcyMjddfQ==
 -->
