@@ -62,17 +62,21 @@ Kong API Gateway는 **nginx 기반**으로 **플랫폼에 구애받지않고** �
 <center> ( 출처 : https://github.com/Netflix/zuul ) </center>
 
 MSA를 잘 활용하고 있는 **Netflex사의 API Gateway를 오픈소스화** 한 것이 Zuul API Gateway 입니다. **groovy 언어**로 작성된 다양한 Filter 를 실행하며, 추가적인 기능은 **Filter를 정의**해서 사용합니다. (Filter 기반) 
-Zuul 모듈을 가지고 직접 구현하는 것은 러닝커브가 커서 어려우나, Spring 진형에서 진행했던(과거형) spring cloud netflix 프로젝트를 이용하여 기능 구현하면 몇 가지 설정과 어노테이션만으로 Zuul API Gateway를 실행해 볼 수 있습니다. 
- 
-
+Zuul 모듈을 가지고 직접 구현하는 것은 러닝커브가 커서 어려우나, Spring 진형에서 진행했던(과거형) **spring cloud netflix 프로젝트**를 이용하여 기능 구현하면 몇 가지 설정과 어노테이션만으로 Zuul API Gateway를 실행해 볼 수 있습니다. 
 
 > groovy 는 자바에 파이썬, 루비, 스몰토크 등의 특징을 더한 동적 객체 지향 프로그래밍 언어입니다. 스크립트 파일 그대로 실행 할 수도 있고, 자바처럼 컴파일하여 쓸 수도 있습니다.
 
 
+
+
+
+
+
+
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzI5MTgzMSwxMzYzNDk0NDUsLTQ5Mz
-E3Njg5MSwtMzIxMDE5MzkyLDEyMDQyOTAzNDIsLTQzOTY3NzM5
-MSwtMTQ2Mjk3NjQwLDEwNTk4NjcwMTMsLTE3NDY2MTIyODQsND
-czMTcwMDQ1LC05MTYxMjk5MzQsMTc4OTUyNzIyN119
+eyJoaXN0b3J5IjpbMjc3NzI2ODMxLDEzNjM0OTQ0NSwtNDkzMT
+c2ODkxLC0zMjEwMTkzOTIsMTIwNDI5MDM0MiwtNDM5Njc3Mzkx
+LC0xNDYyOTc2NDAsMTA1OTg2NzAxMywtMTc0NjYxMjI4NCw0Nz
+MxNzAwNDUsLTkxNjEyOTkzNCwxNzg5NTI3MjI3XX0=
 -->
