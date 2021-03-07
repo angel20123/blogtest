@@ -66,7 +66,7 @@ Zuul 모듈을 가지고 직접 구현하는 것은 러닝커브가 커서 어�
 
 > groovy 는 자바에 파이썬, 루비, 스몰토크 등의 특징을 더한 동적 객체 지향 프로그래밍 언어입니다. 스크립트 파일 그대로 실행 할 수도 있고, 자바처럼 컴파일하여 쓸 수도 있습니다.
 
-
+**2. Spring Cloud Gate**
 
 
 
@@ -75,8 +75,8 @@ Zuul 모듈을 가지고 직접 구현하는 것은 러닝커브가 커서 어�
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3NzI2ODMxLDEzNjM0OTQ0NSwtNDkzMT
-c2ODkxLC0zMjEwMTkzOTIsMTIwNDI5MDM0MiwtNDM5Njc3Mzkx
-LC0xNDYyOTc2NDAsMTA1OTg2NzAxMywtMTc0NjYxMjI4NCw0Nz
-MxNzAwNDUsLTkxNjEyOTkzNCwxNzg5NTI3MjI3XX0=
+eyJoaXN0b3J5IjpbLTE0MjkyNjk4NzgsMTM2MzQ5NDQ1LC00OT
+MxNzY4OTEsLTMyMTAxOTM5MiwxMjA0MjkwMzQyLC00Mzk2Nzcz
+OTEsLTE0NjI5NzY0MCwxMDU5ODY3MDEzLC0xNzQ2NjEyMjg0LD
+Q3MzE3MDA0NSwtOTE2MTI5OTM0LDE3ODk1MjcyMjddfQ==
 -->
