@@ -76,12 +76,12 @@ Zuul 모듈을 가지고 직접 구현하는 것은 러닝커브가 커서 어�
 > **API Gateway 선택은 프로젝트 성격에 맞게 선택하시기 바라며, 구글에 보면 Kong 기반인 Nginx, Zuul, SCG 성능비교 글이 많이 있습니다. 참고하시어 선택하시면 될 듯 합니다.**
 
 ### Zuul 관련 이슈 사항
-Netflix 사에서 ㄷ
+아래 라이브러리는 Spring 2.4 버전부터 확정된 내용입니다. Netflix 사에서 유지보수 개발만 진행
 
-|더 이상 지원하지 않는 zuul 관련 라이브러리              |
+|더 이상 지원하지 않는 라이브러리                        |
 |----------------------------------------------------|
 |spring-cloud-netflix-archaius                       |
-|spring-cloud-netflix-concurrency-limits`            |
+|spring-cloud-netflix-concurrency-limits             |
 |spring-cloud-netflix-dependencies                   |
 |spring-cloud-netflix-hystrix                        |
 |spring-cloud-netflix-hystrix-contract               |
@@ -104,9 +104,9 @@ Netflix 사에서 ㄷ
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTc4NTY3MCwyNzEzNzg0MDYsNTQ4MT
-E3MzIzLDEwNTM5NDM4MzgsMTM2MzQ5NDQ1LC00OTMxNzY4OTEs
-LTMyMTAxOTM5MiwxMjA0MjkwMzQyLC00Mzk2NzczOTEsLTE0Nj
-I5NzY0MCwxMDU5ODY3MDEzLC0xNzQ2NjEyMjg0LDQ3MzE3MDA0
-NSwtOTE2MTI5OTM0LDE3ODk1MjcyMjddfQ==
+eyJoaXN0b3J5IjpbLTE0Nzk0NjUyMTEsMjcxMzc4NDA2LDU0OD
+ExNzMyMywxMDUzOTQzODM4LDEzNjM0OTQ0NSwtNDkzMTc2ODkx
+LC0zMjEwMTkzOTIsMTIwNDI5MDM0MiwtNDM5Njc3MzkxLC0xND
+YyOTc2NDAsMTA1OTg2NzAxMywtMTc0NjYxMjI4NCw0NzMxNzAw
+NDUsLTkxNjEyOTkzNCwxNzg5NTI3MjI3XX0=
 -->
