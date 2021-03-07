@@ -64,13 +64,13 @@ Kong API Gateway는 **nginx 기반**으로 **플랫폼에 구애받지않고** �
 MSA를 잘 활용하고 있는 Netflex사의 API Gateway를 오픈소스화 한 것이 Zuul API Gateway 입니다. groovy 언어로 
 
 
-> groovy 는 
+> groovy 는 자바에 파이썬, 루비, 스몰토크 등의 특징을 더한 동적 객체 지향 프로그래밍 언어입니다. 스크립트 파일 그대로 실행 할 수도 있고, 
 
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2MTg5Mjk3LDEzNjM0OTQ0NSwtNDkzMT
-c2ODkxLC0zMjEwMTkzOTIsMTIwNDI5MDM0MiwtNDM5Njc3Mzkx
-LC0xNDYyOTc2NDAsMTA1OTg2NzAxMywtMTc0NjYxMjI4NCw0Nz
-MxNzAwNDUsLTkxNjEyOTkzNCwxNzg5NTI3MjI3XX0=
+eyJoaXN0b3J5IjpbMjA4MTMwNDA4MCwxMzYzNDk0NDUsLTQ5Mz
+E3Njg5MSwtMzIxMDE5MzkyLDEyMDQyOTAzNDIsLTQzOTY3NzM5
+MSwtMTQ2Mjk3NjQwLDEwNTk4NjcwMTMsLTE3NDY2MTIyODQsND
+czMTcwMDQ1LC05MTYxMjk5MzQsMTc4OTUyNzIyN119
 -->
