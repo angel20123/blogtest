@@ -51,13 +51,13 @@ API Gateway가 없는 경우 각 서비스별로 인증과 인가 로직을 구�
 ![Kong Gateway](https://github.com/angel20123/blogtest/blob/master/kong2.png?raw=true)
 <center> ( 출처 : https://www.tothenew.com/blog/getting-started-with-application-authentication-via-kong-api-gateway/ ) </center>
 
-Kong API Gateway는 nginx 기반으로 플랫폼에 구애받지않고 설치가능하며
+Kong API Gateway는 nginx 기반으로 플랫폼에 구애받지않고 설치가능하며, 플러그인(모듈) 형태로 기능을 확장가능합니다.  만약 Cut
 
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE1MTIzMTgsLTMyMTAxOTM5MiwxMj
-A0MjkwMzQyLC00Mzk2NzczOTEsLTE0NjI5NzY0MCwxMDU5ODY3
-MDEzLC0xNzQ2NjEyMjg0LDQ3MzE3MDA0NSwtOTE2MTI5OTM0LD
-E3ODk1MjcyMjddfQ==
+eyJoaXN0b3J5IjpbMTEyMTI0MDYzMiwtMzIxMDE5MzkyLDEyMD
+QyOTAzNDIsLTQzOTY3NzM5MSwtMTQ2Mjk3NjQwLDEwNTk4Njcw
+MTMsLTE3NDY2MTIyODQsNDczMTcwMDQ1LC05MTYxMjk5MzQsMT
+c4OTUyNzIyN119
 -->
