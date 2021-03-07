@@ -61,14 +61,14 @@ Kong API Gateway는 **nginx 기반**으로 **플랫폼에 구애받지않고** �
 ![Zuul API Gateway](https://github.com/angel20123/blogtest/blob/master/zuul.png?raw=true)
 <center> ( 출처 : https://github.com/Netflix/zuul ) </center>
 
-MSA를 잘 활용하고 있는 Netflex사에서 API Gateway를 오픈소스화 한 것이 Zuul API Gateway 입니다. 
+MSA를 잘 활용하고 있는 Netflex사의 API Gateway를 오픈소스화 한 것이 Zuul API Gateway 입니다. 
 
 
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjgwMzk0MDEsMTM2MzQ5NDQ1LC00OT
-MxNzY4OTEsLTMyMTAxOTM5MiwxMjA0MjkwMzQyLC00Mzk2Nzcz
-OTEsLTE0NjI5NzY0MCwxMDU5ODY3MDEzLC0xNzQ2NjEyMjg0LD
-Q3MzE3MDA0NSwtOTE2MTI5OTM0LDE3ODk1MjcyMjddfQ==
+eyJoaXN0b3J5IjpbOTE5ODQ3MjUxLDEzNjM0OTQ0NSwtNDkzMT
+c2ODkxLC0zMjEwMTkzOTIsMTIwNDI5MDM0MiwtNDM5Njc3Mzkx
+LC0xNDYyOTc2NDAsMTA1OTg2NzAxMywtMTc0NjYxMjI4NCw0Nz
+MxNzAwNDUsLTkxNjEyOTkzNCwxNzg5NTI3MjI3XX0=
 -->
