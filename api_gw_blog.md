@@ -45,11 +45,13 @@ API Gateway가 없는 경우 각 서비스별로 인증과 인가 로직을 구�
 
 
 ## 유명한 API Gateway 3종 
-SI 프로젝트에 도입할 수 있을법한 API Gateway 3종에 대해 소개해보려고 합니다.
+나름 많이 알려진 SI 프로젝트에 도입할 수 있을법한 API Gateway 3종에 대해 소개해보려고 합니다. 
+
+
  
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjc1OTU1NiwxMDU5ODY3MDEzLC0xNz
+eyJoaXN0b3J5IjpbLTE1NTI2MTg4NCwxMDU5ODY3MDEzLC0xNz
 Q2NjEyMjg0LDQ3MzE3MDA0NSwtOTE2MTI5OTM0LDE3ODk1Mjcy
 MjddfQ==
 -->
