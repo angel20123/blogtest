@@ -73,7 +73,7 @@ Zuul 모듈을 가지고 직접 구현하는 것은 러닝커브가 커서 어�
 
 **Srping 진형**에서 프로젝트로 진행되고 있는 API Gateway입니다. Spring Cloud Gateway(SCG)는 **논블로킹** **비동기방식**으로 **Netty 서버**위에서 동작합니다. 따라서 서블릿 컨테이너 또는 War 로 빌드하게 되면 동작하지 않습니다. Zuul 과 비슷하게 **Filter로 정의해서 사용**합니다. (Filter 기반) 
 
-> API Gateway 선택은 프로젝트 성격에 맞게 선택하시기 바라며, 구글에 보면 Kong 기반인 Nginx, Zuul, SCG 성능비교 글이 많이 있습니다. 참고하시어 선택하시면 될 듯 합니다.
+> **API Gateway 선택은 프로젝트 성격에 맞게 선택하시기 바라며, 구글에 보면 Kong 기반인 Nginx, Zuul, SCG 성능비교 글이 많이 있습니다. 참고하시어 선택하시면 될 듯 합니다.**
 
 
 
@@ -82,7 +82,7 @@ Zuul 모듈을 가지고 직접 구현하는 것은 러닝커브가 커서 어�
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0ODg2ODIyLDU0ODExNzMyMywxMDUzOT
+eyJoaXN0b3J5IjpbMjcxMzc4NDA2LDU0ODExNzMyMywxMDUzOT
 QzODM4LDEzNjM0OTQ0NSwtNDkzMTc2ODkxLC0zMjEwMTkzOTIs
 MTIwNDI5MDM0MiwtNDM5Njc3MzkxLC0xNDYyOTc2NDAsMTA1OT
 g2NzAxMywtMTc0NjYxMjI4NCw0NzMxNzAwNDUsLTkxNjEyOTkz
