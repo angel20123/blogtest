@@ -63,14 +63,14 @@ Kong API Gateway는 **nginx 기반**으로 **플랫폼에 구애받지않고** �
 
 
 
-
+ㅇㅇㅇㅇ
 
 
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzE3Njg5MSwtMzIxMDE5MzkyLDEyMD
-QyOTAzNDIsLTQzOTY3NzM5MSwtMTQ2Mjk3NjQwLDEwNTk4Njcw
-MTMsLTE3NDY2MTIyODQsNDczMTcwMDQ1LC05MTYxMjk5MzQsMT
-c4OTUyNzIyN119
+eyJoaXN0b3J5IjpbMTM2MzQ5NDQ1LC00OTMxNzY4OTEsLTMyMT
+AxOTM5MiwxMjA0MjkwMzQyLC00Mzk2NzczOTEsLTE0NjI5NzY0
+MCwxMDU5ODY3MDEzLC0xNzQ2NjEyMjg0LDQ3MzE3MDA0NSwtOT
+E2MTI5OTM0LDE3ODk1MjcyMjddfQ==
 -->
