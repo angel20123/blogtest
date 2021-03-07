@@ -52,12 +52,22 @@ API Gateway가 없는 경우 각 서비스별로 인증과 인가 로직을 구�
 <center> ( 출처 : https://www.tothenew.com/blog/getting-started-with-application-authentication-via-kong-api-gateway/ ) </center>
 
 Kong API Gateway는 **nginx 기반**으로 **플랫폼에 구애받지않고** 설치가능하며, **플러그인(모듈) 형태**로 기능을 확장가능합니다.  만약 Custom 한 기능을 추가하기 위해서는 **Lua** 라는 Script Language를 이용해 **3rd part 플러그인을 개발**하여 Kong API Gateway에 추가해야합니다. 
-그리고 화면을 제공하여 개발자가 아니더라도 일반 운영자가 쉽게 라우팅 설정을 할 수 있습니다.
+그리고 화면을 제공(konga설치필요)하여 개발자가 아니더라도 일반 운영자가 쉽게 라우팅 설정을 할 수 있습니다.
+
+**2. Zuul**
+![enter image description here](https://github.com/angel20123/blogtest/blob/master/zuul.png?raw=true)
+<center> ( 출처 : https://github.com/Netflix/zuul ) </center>
+
+
+
+
+
+
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTA0NjUwOCwtMzIxMDE5MzkyLDEyMD
-QyOTAzNDIsLTQzOTY3NzM5MSwtMTQ2Mjk3NjQwLDEwNTk4Njcw
-MTMsLTE3NDY2MTIyODQsNDczMTcwMDQ1LC05MTYxMjk5MzQsMT
-c4OTUyNzIyN119
+eyJoaXN0b3J5IjpbLTE2MzQ1NTc4MTgsLTMyMTAxOTM5MiwxMj
+A0MjkwMzQyLC00Mzk2NzczOTEsLTE0NjI5NzY0MCwxMDU5ODY3
+MDEzLC0xNzQ2NjEyMjg0LDQ3MzE3MDA0NSwtOTE2MTI5OTM0LD
+E3ODk1MjcyMjddfQ==
 -->
