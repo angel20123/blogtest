@@ -17,11 +17,14 @@ Micro Service Architechture 는 Monolithic Architechture를 여러개의 비지�
  - 각 서비스 별로 인증/인가를 구현해야하며, 공통 로직(인증/인가 등)이 각 서비스마다 존재하게 됨
  - 전체 API 별 통계나 API 별 과금이 힘듬
 
+API Gateway는 사용자가 서비스를 이용하기 위해 모든 엔드포인트를 알 필요가 없이 API Gateway만 알고 있으면, 서비스를 받을 수 있습니다. 그리고 인증/인가와 같은 공통 ㄹ
+
 비단, API Gateway는 MSA 구조에서만 고려대상이 아니라, 기존 Monolithic Architechture 구조에서도 서비스가 많은 경우 사용 될 수도 있을 것 같습니다.
 
 
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjEyOTkzNCwxNzg5NTI3MjI3XX0=
+eyJoaXN0b3J5IjpbLTE2MTYxMzk3MiwtOTE2MTI5OTM0LDE3OD
+k1MjcyMjddfQ==
 -->
