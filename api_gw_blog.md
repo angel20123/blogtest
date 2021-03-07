@@ -49,14 +49,15 @@ API Gateway가 없는 경우 각 서비스별로 인증과 인가 로직을 구�
 
 **1. Kong**
 ![Kong Gateway](https://github.com/angel20123/blogtest/blob/master/kong2.png?raw=true)
-<center> (image by https://www.tothenew.com/blog/getting-started-with-application-authentication-via-kong-api-gateway/) </center>
+<center> (출처 : https://www.tothenew.com/blog/getting-started-with-application-authentication-via-kong-api-gateway/) </center>
 
 Kong API Gateway는 
 
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDI5MDM0MiwtNDM5Njc3MzkxLC0xND
-YyOTc2NDAsMTA1OTg2NzAxMywtMTc0NjYxMjI4NCw0NzMxNzAw
-NDUsLTkxNjEyOTkzNCwxNzg5NTI3MjI3XX0=
+eyJoaXN0b3J5IjpbLTMyMTAxOTM5MiwxMjA0MjkwMzQyLC00Mz
+k2NzczOTEsLTE0NjI5NzY0MCwxMDU5ODY3MDEzLC0xNzQ2NjEy
+Mjg0LDQ3MzE3MDA0NSwtOTE2MTI5OTM0LDE3ODk1MjcyMjddfQ
+==
 -->
