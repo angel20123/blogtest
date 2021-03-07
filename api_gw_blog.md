@@ -19,7 +19,7 @@ Micro Service Architechture 는 Monolithic Architechture를 여러개의 비지�
 
 API Gateway는 사용자가 서비스를 이용하기 위해 모든 엔드포인트를 알 필요가 없이 API Gateway만 알고 있으면, API Gateway가 알아서 각각의 서비스로 라우팅을 해주어 사용자가 서비스를 받을 수 있습니다. 그리고 인증/인가와 같은 공통 로직 처리를 API Gateway에서 처리할 수 있고, API 별 통계나 과금 처리를 API Gateway에서 처리할 수 있습니다. 
 
-
+![API Gateway ](https://github.com/angel20123/blogtest/blob/master/apt_gateway02.png?raw=true)
 
 
 비단, API Gateway는 MSA 구조에서만 고려대상이 아니라, 기존 Monolithic Architechture 구조에서도 서비스가 많은 경우 사용 될 수도 있을 것 같습니다.
@@ -28,6 +28,6 @@ API Gateway는 사용자가 서비스를 이용하기 위해 모든 엔드포인
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTI2ODM2NiwtOTE2MTI5OTM0LDE3OD
-k1MjcyMjddfQ==
+eyJoaXN0b3J5IjpbNDczMTcwMDQ1LC05MTYxMjk5MzQsMTc4OT
+UyNzIyN119
 -->
