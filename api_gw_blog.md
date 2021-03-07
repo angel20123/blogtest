@@ -48,16 +48,19 @@ API Gateway가 없는 경우 각 서비스별로 인증과 인가 로직을 구�
 나름 많이 알려진 프로젝트에 도입할 수 있을법한 API Gateway 3종에 대해 간단하게 소개해보려고 합니다.  자세한 내용은 인터넷에서 찾아보시길 바랍니다.
 
 **1. Kong**
+
 ![Kong Gateway](https://github.com/angel20123/blogtest/blob/master/kong2.png?raw=true)
 <center> ( 출처 : https://www.tothenew.com/blog/getting-started-with-application-authentication-via-kong-api-gateway/ ) </center>
 
 Kong API Gateway는 **nginx 기반**으로 **플랫폼에 구애받지않고** 설치가능하며, **플러그인(모듈) 형태**로 기능을 확장가능합니다.  만약 Custom 한 기능을 추가하기 위해서는 **Lua** 라는 Script Language를 이용해 **3rd part 플러그인을 개발**하여 Kong API Gateway에 추가해야합니다. 
 그리고 화면을 제공(konga설치필요)하여 개발자가 아니더라도 일반 운영자가 쉽게 라우팅 설정을 할 수 있습니다.
 
+
 **2. Zuul**
-<center>![Zuul API Gateway](https://github.com/angel20123/blogtest/blob/master/zuul.png?raw=true)
+
+![Zuul API Gateway](https://github.com/angel20123/blogtest/blob/master/zuul.png?raw=true)
 <center> ( 출처 : https://github.com/Netflix/zuul ) </center>
-</center>
+
 
 
 
@@ -66,8 +69,8 @@ Kong API Gateway는 **nginx 기반**으로 **플랫폼에 구애받지않고** �
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxOTYxMzAsLTMyMTAxOTM5MiwxMjA0Mj
-kwMzQyLC00Mzk2NzczOTEsLTE0NjI5NzY0MCwxMDU5ODY3MDEz
-LC0xNzQ2NjEyMjg0LDQ3MzE3MDA0NSwtOTE2MTI5OTM0LDE3OD
-k1MjcyMjddfQ==
+eyJoaXN0b3J5IjpbLTQ5MzE3Njg5MSwtMzIxMDE5MzkyLDEyMD
+QyOTAzNDIsLTQzOTY3NzM5MSwtMTQ2Mjk3NjQwLDEwNTk4Njcw
+MTMsLTE3NDY2MTIyODQsNDczMTcwMDQ1LC05MTYxMjk5MzQsMT
+c4OTUyNzIyN119
 -->
