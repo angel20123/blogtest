@@ -49,10 +49,10 @@ API Gateway가 없는 경우 각 서비스별로 인증과 인가 로직을 구�
 
 **1. Kong**
 ![Kong Gateway](https://github.com/angel20123/blogtest/blob/master/kong2.png?raw=true)
- 
+ imag
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTY3NzM5MSwtMTQ2Mjk3NjQwLDEwNT
-k4NjcwMTMsLTE3NDY2MTIyODQsNDczMTcwMDQ1LC05MTYxMjk5
-MzQsMTc4OTUyNzIyN119
+eyJoaXN0b3J5IjpbMTI1OTkxNzczNSwtNDM5Njc3MzkxLC0xND
+YyOTc2NDAsMTA1OTg2NzAxMywtMTc0NjYxMjI4NCw0NzMxNzAw
+NDUsLTkxNjEyOTkzNCwxNzg5NTI3MjI3XX0=
 -->
