@@ -4,7 +4,7 @@
 API Gateway 의미를 생각하기전에 API와 Gateway의 각각의 의미를 먼저 찾아보았습니다.
 
 -  **API : 프로그램들이 서로 상호작용하는 것을 도와주는 매개체 역할로  API를 통해 서비스나 데이터를 받을 수 있음**
-- **Gateway : 관문 또는 출입구라는 뜻으로 사용자가 현재 네트워크에서 다른 네트워크로 가기위한 반듯이 거쳐야하는 거점  (ex:톨게이트)** 
+- **Gateway : 관문 또는 출입구라는 뜻으로 사용자가 현재 네트워크에서 다른 네트워크로 가기위한 반듯이 거쳐야하는 거점 (ex : 톨게이트)** 
 
 API 개념과 Gateway 개념을 조합하여 생각해보면, **MSA 구조에서 API Gateway 는 사용자가 현재 속한 네트워크에서 API를 통해 서비스나 데이터를 받기위해 다른 네트워크를 무조건 거쳐가야하는 곳**을 의미한다고 생각합니다.    
 
@@ -28,6 +28,6 @@ API Gateway는 사용자가 서비스를 이용하기 위해 모든 엔드포인
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTI3OTExNSw0NzMxNzAwNDUsLTkxNj
-EyOTkzNCwxNzg5NTI3MjI3XX0=
+eyJoaXN0b3J5IjpbLTIxNzgzNTg1LDQ3MzE3MDA0NSwtOTE2MT
+I5OTM0LDE3ODk1MjcyMjddfQ==
 -->
