@@ -26,8 +26,8 @@ API Gateway는 사용자가 서비스를 이용하기 위해 모든 엔드포인
 
 ## API Gateway 주요 기능
  
-> Written with [StackEdit](https://stackedit.io/).
+> Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5MTExMDM0LDQ3MzE3MDA0NSwtOTE2MT
-I5OTM0LDE3ODk1MjcyMjddfQ==
+eyJoaXN0b3J5IjpbLTU5MTY2MzE4Myw0NzMxNzAwNDUsLTkxNj
+EyOTkzNCwxNzg5NTI3MjI3XX0=
 -->
