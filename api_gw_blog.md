@@ -25,11 +25,11 @@ API Gateway는 사용자가 서비스를 이용하기 위해 모든 엔드포인
 비단, API Gateway는 MSA 구조에서만 고려대상이 아니라, 기존 Monolithic Architechture 구조에서도 서비스가 많은 경우 사용 될 수도 있을 것 같습니다.
 
 **1. 인증/인가**
-
+API Gateway가 없는 경우 각 서비스별로 인증과 인가 로직을 
 ## API Gateway 주요 기능
  
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDY2MTIyODQsNDczMTcwMDQ1LC05MT
-YxMjk5MzQsMTc4OTUyNzIyN119
+eyJoaXN0b3J5IjpbMTEwOTk0NzE4NCwtMTc0NjYxMjI4NCw0Nz
+MxNzAwNDUsLTkxNjEyOTkzNCwxNzg5NTI3MjI3XX0=
 -->
