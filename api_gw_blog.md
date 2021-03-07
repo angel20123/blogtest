@@ -18,8 +18,10 @@ Micro Service Architechture 는 Monolithic Architechture를 여러개의 비지�
  - 전체 API 별 통계나 API 별 과금이 힘듬
 
 비단, API Gateway는 MSA 구조에서만 고려대상이 아니라, 기존 Monolithic Architechture 구조에서도 서비스가 많은 경우 사용 될 수도 있을 것 같습니다.
+
+
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTg1MjQ2NiwxNzg5NTI3MjI3XX0=
+eyJoaXN0b3J5IjpbLTkxNjEyOTkzNCwxNzg5NTI3MjI3XX0=
 -->
