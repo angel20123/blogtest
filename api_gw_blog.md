@@ -93,7 +93,7 @@ Zuul 모듈을 가지고 직접 구현하는 것은 러닝커브가 커서 어�
 
 ### Zuul 관련 이슈 사항
 
-아래 모듈들은 Spring boot 2.4 버전부터(# Spring Cloud 2020.0 Release Notes) 확정된 내용입니다. Netflix 사에서 유지보수 개발만 진행되는 라이브러리에 대해서 Spring 진형에서 지원하지 않겠다고 발표하였습니다. 따라서 Spring boot 2.4 버전에서 쓰기 힘들것으로 보입니다. 다만 아래에 포함되지않은 모듈인 Eureka는 빠져있어 Eureka는 계속 지원할 것으로 보입니다. 
+아래 모듈들은 Spring boot 2.4 버전부터(# Spring Cloud 2020.0 Release Notes) 확정된 내용입니다. Netflix 사에서 유지보수 개발만 진행되는 라이브러리에 대해서 **Spring 진형에서 지원하지 않겠다고 발표**하였습니다. 따라서 Spring boot 2.4 버전에서 쓰기 힘들것으로 보입니다. 다만 **아래에 포함되지않은 모듈인 Eureka는 빠져있어 Eureka는 계속 지원할 것으로 보입니다.** 
 (출처 : https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2020.0-Release-Notes#breaking-changes)
 
 
@@ -130,9 +130,10 @@ Zuul 모듈을 가지고 직접 구현하는 것은 러닝커브가 커서 어�
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDIzMzkzODgsMjcxMzc4NDA2LDU0OD
-ExNzMyMywxMDUzOTQzODM4LDEzNjM0OTQ0NSwtNDkzMTc2ODkx
-LC0zMjEwMTkzOTIsMTIwNDI5MDM0MiwtNDM5Njc3MzkxLC0xND
-YyOTc2NDAsMTA1OTg2NzAxMywtMTc0NjYxMjI4NCw0NzMxNzAw
-NDUsLTkxNjEyOTkzNCwxNzg5NTI3MjI3XX0=
+eyJoaXN0b3J5IjpbMTY5OTYwMTkyNCwtMTcwMjMzOTM4OCwyNz
+EzNzg0MDYsNTQ4MTE3MzIzLDEwNTM5NDM4MzgsMTM2MzQ5NDQ1
+LC00OTMxNzY4OTEsLTMyMTAxOTM5MiwxMjA0MjkwMzQyLC00Mz
+k2NzczOTEsLTE0NjI5NzY0MCwxMDU5ODY3MDEzLC0xNzQ2NjEy
+Mjg0LDQ3MzE3MDA0NSwtOTE2MTI5OTM0LDE3ODk1MjcyMjddfQ
+==
 -->
