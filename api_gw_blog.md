@@ -61,7 +61,9 @@ Kong API Gateway는 **nginx 기반**으로 **플랫폼에 구애받지않고** �
 ![Zuul API Gateway](https://github.com/angel20123/blogtest/blob/master/zuul.png?raw=true)
 <center> ( 출처 : https://github.com/Netflix/zuul ) </center>
 
-MSA를 잘 활용하고 있는 Netflex사의 API Gateway를 오픈소스화 한 것이 Zuul API Gateway 입니다. groovy 언어로 작성된 다양한 Filter 를 가지고 기능을 정의하고 사용합니다.  
+MSA를 잘 활용하고 있는 Netflex사의 API Gateway를 오픈소스화 한 것이 Zuul API Gateway 입니다. groovy 언어로 작성된 다양한 Filter 를 실행하며, 추가적인 기능은 Filter를 정의해서 사용합니다. (Filter 기반) 
+
+ 
 
 
 > groovy 는 자바에 파이썬, 루비, 스몰토크 등의 특징을 더한 동적 객체 지향 프로그래밍 언어입니다. 스크립트 파일 그대로 실행 할 수도 있고, 자바처럼 컴파일하여 쓸 수도 있습니다.
@@ -69,8 +71,8 @@ MSA를 잘 활용하고 있는 Netflex사의 API Gateway를 오픈소스화 한 
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODcxODA4NzQsMTM2MzQ5NDQ1LC00OT
-MxNzY4OTEsLTMyMTAxOTM5MiwxMjA0MjkwMzQyLC00Mzk2Nzcz
-OTEsLTE0NjI5NzY0MCwxMDU5ODY3MDEzLC0xNzQ2NjEyMjg0LD
-Q3MzE3MDA0NSwtOTE2MTI5OTM0LDE3ODk1MjcyMjddfQ==
+eyJoaXN0b3J5IjpbMTQ5Mjc5MjU2MywxMzYzNDk0NDUsLTQ5Mz
+E3Njg5MSwtMzIxMDE5MzkyLDEyMDQyOTAzNDIsLTQzOTY3NzM5
+MSwtMTQ2Mjk3NjQwLDEwNTk4NjcwMTMsLTE3NDY2MTIyODQsND
+czMTcwMDQ1LC05MTYxMjk5MzQsMTc4OTUyNzIyN119
 -->
