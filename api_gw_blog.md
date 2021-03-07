@@ -76,7 +76,7 @@ Zuul 모듈을 가지고 직접 구현하는 것은 러닝커브가 커서 어�
 > **API Gateway 선택은 프로젝트 성격에 맞게 선택하시기 바라며, 구글에 보면 Kong 기반인 Nginx, Zuul, SCG 성능비교 글이 많이 있습니다. 참고하시어 선택하시면 될 듯 합니다.**
 
 ### Zuul 관련 이슈 사항
-아래 모듈들은 Spring 2.4 버전부터(# Spring Cloud 2020.0 Release Notes) 확정된 내용입니다. Netflix 사에서 유지보수 개발만 진행되는 라이브러리에 대해서 Spring에서 지원하지 않겠다고 발표하였습니다. 따라서 Spring 2.4 
+아래 모듈들은 Spring boot 2.4 버전부터(# Spring Cloud 2020.0 Release Notes) 확정된 내용입니다. Netflix 사에서 유지보수 개발만 진행되는 라이브러리에 대해서 Spring 진형에서 지원하지 않겠다고 발표하였습니다. 따라서 Spring boot 2.4 버전에서 쓰기 힘들것으로 보입니다. 다만 아래에 포함되지않은 모듈인 Eureka는 빠
 
 |더 이상 지원하지 않는 모듈                             |
 |----------------------------------------------------|
@@ -104,9 +104,9 @@ Zuul 모듈을 가지고 직접 구현하는 것은 러닝커브가 커서 어�
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0Nzc0NTA0LDI3MTM3ODQwNiw1NDgxMT
-czMjMsMTA1Mzk0MzgzOCwxMzYzNDk0NDUsLTQ5MzE3Njg5MSwt
-MzIxMDE5MzkyLDEyMDQyOTAzNDIsLTQzOTY3NzM5MSwtMTQ2Mj
-k3NjQwLDEwNTk4NjcwMTMsLTE3NDY2MTIyODQsNDczMTcwMDQ1
-LC05MTYxMjk5MzQsMTc4OTUyNzIyN119
+eyJoaXN0b3J5IjpbLTg1MzUwNDM4MCwyNzEzNzg0MDYsNTQ4MT
+E3MzIzLDEwNTM5NDM4MzgsMTM2MzQ5NDQ1LC00OTMxNzY4OTEs
+LTMyMTAxOTM5MiwxMjA0MjkwMzQyLC00Mzk2NzczOTEsLTE0Nj
+I5NzY0MCwxMDU5ODY3MDEzLC0xNzQ2NjEyMjg0LDQ3MzE3MDA0
+NSwtOTE2MTI5OTM0LDE3ODk1MjcyMjddfQ==
 -->
