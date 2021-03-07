@@ -45,19 +45,19 @@ API Gateway가 없는 경우 각 서비스별로 인증과 인가 로직을 구�
 
 
 ## API Gateway 종류
-나름 많이 알려진 프로젝트에 도입할 수 있을법한 API Gateway 3종에 대해 간단하게 소개해보려고 합니다.  깊은 내용은 찾아보시길 바랍니다.
+나름 많이 알려진 프로젝트에 도입할 수 있을법한 API Gateway 3종에 대해 간단하게 소개해보려고 합니다.  자세한 내용은 인터넷에서 찾아보시길 바랍니다.
 
 **1. Kong**
 ![Kong Gateway](https://github.com/angel20123/blogtest/blob/master/kong2.png?raw=true)
-<center> (출처 : https://www.tothenew.com/blog/getting-started-with-application-authentication-via-kong-api-gateway/) </center>
+<center> ( 출처 : https://www.tothenew.com/blog/getting-started-with-application-authentication-via-kong-api-gateway/ ) </center>
 
 Kong API Gateway는 nginx 기반으로 
 
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwNTQwNjcyLC0zMjEwMTkzOTIsMTIwND
-I5MDM0MiwtNDM5Njc3MzkxLC0xNDYyOTc2NDAsMTA1OTg2NzAx
-MywtMTc0NjYxMjI4NCw0NzMxNzAwNDUsLTkxNjEyOTkzNCwxNz
-g5NTI3MjI3XX0=
+eyJoaXN0b3J5IjpbLTE0MTc1ODgwMDksLTMyMTAxOTM5MiwxMj
+A0MjkwMzQyLC00Mzk2NzczOTEsLTE0NjI5NzY0MCwxMDU5ODY3
+MDEzLC0xNzQ2NjEyMjg0LDQ3MzE3MDA0NSwtOTE2MTI5OTM0LD
+E3ODk1MjcyMjddfQ==
 -->
