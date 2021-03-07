@@ -44,11 +44,12 @@ API Gateway가 없는 경우 각 서비스별로 인증과 인가 로직을 구�
 사용자는 API Gateway를 통해 모든 요청을 하기때문에 API Gateway에서 필요한 통계를 저장, 모니터링 할 수 있습니다. 이렇게 저장된 데이터를 가지고 이후 각 사용자별로 API 사용량을 가지고 과금을 할 수 있습니다.
 
 
-
-
+## 유명한 API Gateway 3종 
+SI 프로젝트에 도입할 수 있을법한 API Gateway 3종에 대해 소개해보려고 합니다.
  
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTg2NzAxMywtMTc0NjYxMjI4NCw0Nz
-MxNzAwNDUsLTkxNjEyOTkzNCwxNzg5NTI3MjI3XX0=
+eyJoaXN0b3J5IjpbMTcwMjc1OTU1NiwxMDU5ODY3MDEzLC0xNz
+Q2NjEyMjg0LDQ3MzE3MDA0NSwtOTE2MTI5OTM0LDE3ODk1Mjcy
+MjddfQ==
 -->
