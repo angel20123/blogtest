@@ -25,11 +25,14 @@ API Gateway는 사용자가 서비스를 이용하기 위해 모든 엔드포인
 비단, API Gateway는 MSA 구조에서만 고려대상이 아니라, 기존 Monolithic Architechture 구조에서도 서비스가 많은 경우 사용 될 수도 있을 것 같습니다.
 
 **1. 인증/인가**
-API Gateway가 없는 경우 각 서비스별로 인증과 인가 로직을 구현하여야 합니다.  보통 인증과 인가로직은 공통 로직으로 각 서비스 수만큼 공통로직이 중복이 발생하게 되고, 서비스가 많아지면 유지보수가 힘들어집니다. 따라서 사용자의 요청을 처음 받는  API Gateway에 인증과 인가로직을 구현함으로서 공통로직을 줄일 수 있습니다. 
+API Gateway가 없는 경우 각 서비스별로 인증과 인가 로직을 구현하여야 합니다.  보통 인증과 인가로직은 공통 로직으로 각 서비스 수만큼 공통로직이 중복이 발생하게 되고, 서비스가 많아지면 유지보수가 힘들어집니다. 따라서 사용자의 모든 요청을 처음 받는  API Gateway에 인증과 인가로직을 구현함으로서 공통로직을 줄일 수 있고, 유지보수도 그 만큼 쉬워지게 됩니다.
+
+**2. 인증/인가**
+ 
 ## API Gateway 주요 기능
  
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODUwODIyODgsLTE3NDY2MTIyODQsND
-czMTcwMDQ1LC05MTYxMjk5MzQsMTc4OTUyNzIyN119
+eyJoaXN0b3J5IjpbLTM2MjY5Njk0MiwtMTc0NjYxMjI4NCw0Nz
+MxNzAwNDUsLTkxNjEyOTkzNCwxNzg5NTI3MjI3XX0=
 -->
