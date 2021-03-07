@@ -130,10 +130,5 @@ Zuul 모듈을 가지고 직접 구현하는 것은 러닝커브가 커서 어�
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTYwMTkyNCwtMTcwMjMzOTM4OCwyNz
-EzNzg0MDYsNTQ4MTE3MzIzLDEwNTM5NDM4MzgsMTM2MzQ5NDQ1
-LC00OTMxNzY4OTEsLTMyMTAxOTM5MiwxMjA0MjkwMzQyLC00Mz
-k2NzczOTEsLTE0NjI5NzY0MCwxMDU5ODY3MDEzLC0xNzQ2NjEy
-Mjg0LDQ3MzE3MDA0NSwtOTE2MTI5OTM0LDE3ODk1MjcyMjddfQ
-==
+eyJoaXN0b3J5IjpbMTY5OTYwMTkyNF19
 -->
