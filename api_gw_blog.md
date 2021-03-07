@@ -9,7 +9,8 @@ API Gateway 의미를 생각하기전에 API와 Gateway의 각각의 의미를 �
 API 개념과 Gateway 개념을 조합하여 생각해보면, **MSA 구조에서 API Gateway 는 사용자가 현재 속한 네트워크에서 API를 통해 서비스나 데이터를 받기위해 다른 네트워크를 무조건 거쳐가야하는 곳**을 의미한다고 생각합니다.    
 
 ## API Gateway 의 필요성
-![enter image description here](https://drive.google.com/file/d/1rW09Nvi4hycFWV8aR6DZSn5F62T8oakC/view?usp=sharing)
+![enter image description here](https://github.com/angel20123/blogtest/blob/master/api_gateway01.png?raw=true)
+
 Micro Service Architechture 는 Monolithic Architechture를 여러개의 비지니스 로직을 모듈화하여 잘게 쪼개기 때문에, 서비스 갯수로 보면 전자가 후자보다 훨씬 더 많습니다.  따라서 사용자(클라이언트)가 직접 호출하는 경우에 여러가지 문제점이 발생할 수 있습니다.
 
  - 사용자(클라이언트)가 모든 엔드포인트를 알고 있어야 서비스를 호출이 가능
@@ -20,5 +21,5 @@ Micro Service Architechture 는 Monolithic Architechture를 여러개의 비지�
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTUyNzIyN119
+eyJoaXN0b3J5IjpbLTEwOTAyNTk3OTQsMTc4OTUyNzIyN119
 -->
