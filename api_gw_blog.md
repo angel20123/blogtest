@@ -71,12 +71,13 @@ Zuul 모듈을 가지고 직접 구현하는 것은 러닝커브가 커서 어�
 ![SCG API Gateway](https://github.com/angel20123/blogtest/blob/master/spirngCloudGateway.jpg?raw=true)
 <center> ( 출처 : https://dev.to/only2dhir/an-introduction-to-spring-cloud-gateway-3o89 ) </center>
 
-
+Srping 진형에서 프로젝트로 진행되고 있는 API Gateway입니다. Spring Cloud Gateway(SCG)는 논블로킹 비동기방식으로 Netty 서버위에서 동작합니다. 따라서 서블릿 컨테ㅇ
 
 > Written with Jongtae Jeong(Jong_tae.Jeong@kt.com).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Mzk0MzgzOCwxMzYzNDk0NDUsLTQ5Mz
-E3Njg5MSwtMzIxMDE5MzkyLDEyMDQyOTAzNDIsLTQzOTY3NzM5
-MSwtMTQ2Mjk3NjQwLDEwNTk4NjcwMTMsLTE3NDY2MTIyODQsND
-czMTcwMDQ1LC05MTYxMjk5MzQsMTc4OTUyNzIyN119
+eyJoaXN0b3J5IjpbNTc1OTIxNzYsMTA1Mzk0MzgzOCwxMzYzND
+k0NDUsLTQ5MzE3Njg5MSwtMzIxMDE5MzkyLDEyMDQyOTAzNDIs
+LTQzOTY3NzM5MSwtMTQ2Mjk3NjQwLDEwNTk4NjcwMTMsLTE3ND
+Y2MTIyODQsNDczMTcwMDQ1LC05MTYxMjk5MzQsMTc4OTUyNzIy
+N119
 -->
